@@ -101,7 +101,7 @@ A chart identifying the ten most common cuisines based on the number of restaura
 
 ## Dashboard Preview
 
-![Restaurant Analysis Dashboard](images/Restaurant_Dashboard.png)
+![Restaurant Analysis Dashboard](Restaurant_Dashboard.png)
 
 ## Interactive Slicers
 
