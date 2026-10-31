@@ -30,8 +30,8 @@ The interactive dashboard provides key performance indicators (KPIs), visualizat
 - Average Cost for two
 - Currency
 - Has Table booking
-- Has Online delievery
-- Is delievering now
+- Has Online delivery
+- Is delivering now
 - Price Range
 - Aggregate Rating
 - Rating Color 
