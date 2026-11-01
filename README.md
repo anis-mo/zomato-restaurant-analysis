@@ -133,6 +133,18 @@ The dashboard helps users explore:
 
 This project demonstrates the use of Power BI to transform restaurant data into an interactive dashboard. It combines KPIs, charts, a geographical map, and slicers to support restaurant data exploration and business analysis.
 
+📚 Data Source & License
+
+- Dataset: Zomato Restaurant Dataset
+- Source: Kaggle
+- License: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+The dataset is provided under the CC BY-SA 4.0 license. It may be shared and adapted, provided that appropriate credit is given, a link to the license is included, and any adaptations are distributed under the same license.
+
+License Link: "CC BY-SA 4.0" (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Dataset Link: "View Dataset on Kaggle" (https://www.kaggle.com/datasets/srisyra02/zomato-market-analysis)
+
 ## Author
 
 anis-mo
